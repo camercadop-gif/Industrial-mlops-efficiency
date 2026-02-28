@@ -1,0 +1,23 @@
+{
+    "KS_statistic":{
+        "temperature":0.0325714286,
+        "pressure":0.021047619,
+        "flow":0.0377142857,
+        "composition":0.0186666667,
+        "efficiency":0.6121904762
+    },
+    "p_value":{
+        "temperature":0.5184063343,
+        "pressure":0.9419054263,
+        "flow":0.3351488003,
+        "composition":0.9798513084,
+        "efficiency":4.318276672e-219
+    },
+    "PSI":{
+        "temperature":0.0165774391,
+        "pressure":0.0124217808,
+        "flow":0.0210764,
+        "composition":0.0063735599,
+        "efficiency":6.5663105808
+    }
+}
